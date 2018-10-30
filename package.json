@@ -1,0 +1,20 @@
+{
+  "name": "atelier-catmash",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jaune <jaunelacouleur@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "develop": "parcel serve ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "dependencies": {
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0",
+    "reason-react": "^0.5.3"
+  },
+  "devDependencies": {
+    "bs-platform": "^4.0.7",
+    "bsb-js": "^1.1.7"
+  }
+}

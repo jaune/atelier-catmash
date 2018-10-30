@@ -1,0 +1,12 @@
+# node
+node_modules
+yarn-error.log
+
+# parcel
+.cache
+dist
+
+# reason
+lib
+src/**/*.bs.js
+.merlin
